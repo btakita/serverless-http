@@ -1,5 +1,5 @@
 {
-  "name": "serverless-http",
+  "name": "@btakita/serverless-http",
   "version": "2.3.0",
   "description": "Use existing web application frameworks in serverless environments",
   "main": "serverless-http.js",
